@@ -6,4 +6,4 @@ repos/obs-studio/cef_binary_4638_linux64.tar.bz2
 # duplicates just in case
 repos/obs-studio/cef_binary_4638_linux64.tar.bz2.*
 # The repo itself
-repos/obs-studio/obs-studio
+#repos/obs-studio/obs-studio/
